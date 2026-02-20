@@ -7,9 +7,10 @@ This project demonstrates how to build a production-ready streaming platform sim
 ---
 
 ## 🖼️ Preview
-
-(Add your application screenshots or demo GIF here)
-
+![image alt](https://github.com/M-tech-cmd/LiveBlast/blob/3d493b53984eabfcd49602536edfe816b7a78606/src/assets/img/preset1.png)
+![image alt](https://github.com/M-tech-cmd/LiveBlast/blob/3d493b53984eabfcd49602536edfe816b7a78606/src/assets/img/preset2.png)
+![image alt](https://github.com/M-tech-cmd/LiveBlast/blob/3d493b53984eabfcd49602536edfe816b7a78606/src/assets/img/preset3.png)
+![image alt](https://github.com/M-tech-cmd/LiveBlast/blob/3d493b53984eabfcd49602536edfe816b7a78606/src/assets/img/preset4.png)
 ---
 
 ## ✨ About LiveBlast
@@ -180,3 +181,4 @@ MIT License
 
 **Emmanuel Gema Kimani (M-tech-cmd)**
 Full Stack Developer • Real-Time App Builder • React Developer
+
